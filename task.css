@@ -1,0 +1,42 @@
+img{
+    width: 100%;
+}
+
+body{
+    background-color: darkblue;
+
+}
+
+.title{
+    background-color: coral;
+    text-align: center;
+}
+
+.div{
+    background-color:chocolate;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 24.5%;
+    display: inline-block;
+}
+
+.div h1{
+    text-align: center;
+}
+
+
+.div4{
+    background-color:chocolate;
+    text-align: left;
+   
+}
+.center{
+    text-align: center;
+}
+
+.end{
+
+    text-align: center;
+}
+
+
